@@ -9,6 +9,11 @@
     "architecture": {
         "64bit": {
             "bin": [
+                "x64\\NSudoLG.exe",
+                [
+                    "x64\\NSudoLG.exe",
+                    "NSudo"
+                ],
                 "x64\\NSudoLC.exe",
                 [
                     "x64\\NSudoLC.exe",
