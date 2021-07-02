@@ -12,12 +12,12 @@
                 "x64\\NSudoLG.exe",
                 [
                     "x64\\NSudoLG.exe",
-                    "NSudo"
+                    "NSudoLG"
                 ],
                 "x64\\NSudoLC.exe",
                 [
                     "x64\\NSudoLC.exe",
-                    "NSudo"
+                    "NSudoLC"
                 ]
             ],
             "shortcuts": [
