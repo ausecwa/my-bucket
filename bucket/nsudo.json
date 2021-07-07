@@ -22,8 +22,12 @@
             ],
             "shortcuts": [
                 [
-                    "x64\\NSudoLG.exe",
+                    "x64\\NSudoLC.exe",
                     "NSudo"
+                ],
+                [
+                    "x64\\NSudoLG.exe",
+                    "NSudo GUI"
                 ]
             ]
         },
